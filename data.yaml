@@ -1,0 +1,15 @@
+train: C:/Users/Caio Fuzita/Documents/yolo/train/images
+val: C:/Users/Caio Fuzita/Documents/yolo/valid/images
+test: C:/Users/Caio Fuzita/Documents/yolo/test/images
+nc: 10
+names: 
+- door
+- cabinetDoor
+- refrigeratorDoor
+- window
+- chair
+- table
+- cabinet
+- couch
+- openedDoor
+- pole
